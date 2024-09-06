@@ -1,0 +1,4 @@
+pip install pgmpy
+
+
+conda install -c ankurankan pgmpy
